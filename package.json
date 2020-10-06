@@ -1,0 +1,27 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "End-to-End Testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JelenaMarjanovic/cypress-e2e.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e"
+  ],
+  "author": "Jelena Marjanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JelenaMarjanovic/cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/JelenaMarjanovic/cypress-e2e#readme",
+  "dependencies": {
+    "cypress": "^5.3.0"
+  }
+}
